@@ -2,4 +2,5 @@ This repository contains solutions from my textual algorithms class at AGH UST. 
 
 * [Lab 1](https://github.com/pvtrov/Textual-Algorithms/tree/main/lab_1) includes the topic of finidng a pattern in a text using KMP algorithm and finite automaton.
 * [Lab 2](https://github.com/pvtrov/Textual-Algorithms/tree/main/lab_2) static Huffman encoding
+* [Lab 3](https://github.com/pvtrov/Textual-Algorithms/tree/main/lab_3) Levenshtein distance (edit distance)
 
